@@ -1,9 +1,9 @@
 ### Hey there!
 
 <div>
-  <a href="https://github.com/LorenaCaires">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LorenaCaires&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LorenaCaires&layout=compact&langs_count=7&theme=vue-dark"/>
+  <a href="https://github.com/LorenaAlves02">
+  <img height="205em" src="https://github-readme-stats.vercel.app/api?username=LorenaAlves02&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+    <img height="134em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LorenaAlves02&layout=compact&langs_count=7&theme=vue-dark"/>
 </div>
  
  <div> 

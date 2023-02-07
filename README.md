@@ -14,7 +14,7 @@
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="gif bunny" height="150" style="border-radius:50px;" 
-       src="http://www.codeit.kr/.gif">
+       src="http:https://media0.giphy.com/media/h408T6Y5GfmXBKW62l/200w.gif?cid=6c09b952d0c0jc7v8r85kaj8vvq92tdmrj0p6aqkte7upn2r&rid=200w.gif&ct=g">
 </div>
   
 ##

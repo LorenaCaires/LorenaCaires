@@ -14,7 +14,7 @@
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="gif bunny" height="150" style="border-radius:50px;" 
-       src="https://imgflip.com/gif/7a7ugk.gif">
+       <div style="width:290px;max-width:100%;"><div style="height:0;padding-bottom:100%;position:relative;"><iframe width="290" height="290" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/7a7ugk"></iframe></div><p><a href="https://imgflip.com/gif/7a7ugk">via Imgflip</a></p></div>
 </div>
   
 ##
